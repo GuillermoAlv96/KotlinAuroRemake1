@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">KotlinAuroRemake</string>
+    <string name="continue_text">Continue</string>
 </resources>

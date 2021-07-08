@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "39626326898",
+    "project_id": "kotlinauroremake",
+    "storage_bucket": "kotlinauroremake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39626326898:android:e8fc33ece73583034253eb",
+        "android_client_info": {
+          "package_name": "com.example.kotlinauroremake"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39626326898-9m55ke17162clhcrv5eodiui5qpse6if.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kotlinauroremake",
+            "certificate_hash": "fc4c9fb9b9d965b174d9589fe01bf40c0a2b75d8"
+          }
+        },
+        {
+          "client_id": "39626326898-pg62p4lb3649ed13lbfldr7eu8kmi22q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf9UrQC01ty3MZxYajEojJ_7huIbCE6Zo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39626326898-pg62p4lb3649ed13lbfldr7eu8kmi22q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
