@@ -1,0 +1,2 @@
+rootProject.name = "KotlinAuroRemake"
+include ':app'
